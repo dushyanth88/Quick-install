@@ -16,12 +16,11 @@ export default function Header() {
               <p className="text-sm text-gray-600">Install multiple apps with one script</p>
             </div>
           </div>
-          <div className="hidden md:block text-sm text-gray-600">
-            Like Ninite, but open source and customizable
-          </div>
+          
         </div>
       </div>
     </header>
   )
 }
+
 
